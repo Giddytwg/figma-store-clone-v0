@@ -1,0 +1,180 @@
+
+
+
+
+[
+    {   "id": 10,
+        "name" : "Green Goodness",
+        "price": 200,        
+        "tagline": "Warning: Wearing this may cause strangers to compliment you." ,
+        "pictures": ["./src/assets/product10A.webp", "./src/assets/product10B.webp", "./src/assets/product10C.webp","./src/assets/product10D.webp", "./src/assets/product10E.webp"],
+        "size": ["S", "M", "L", "XL"]
+    },
+    {   "id": 11,
+        "name" : "wwhiteness",
+        "price": 200,        
+        "tagline": "If clothes could talk, these would say, I'm fabulous!"
+ ,
+        "pictures": ["./src/assets/product11A.webp", "./src/assets/product11B.webp", "./src/assets/product11C.webp","./src/assets/product11D.webp", "./src/assets/product11E.webp"],
+        "size": ["S", "M" , "XL", "2XL"]
+        
+    },
+    {   "id": 17,
+        "name" : "Beanly bottle",
+        "price": 40,        
+        "tagline": "Stay hydrated – because being parched isn’t a good look." ,
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product17A.webp", "./src/assets/product17B.webp", "./src/assets/product17C.webp","./src/assets/product17D.webp", "./src/assets/product17E.webp"]
+    },
+    {   "id": 22,
+        "name" : "Stickly sticky",
+        "price": 25,        
+        "tagline": "Stick it and make your stuff 200% cooler – scientifically unproven, but it feels right." ,
+        "size": ["M" , "XL", "2XL"],
+        "pictures": ["./src/assets/STICKER-SHIRT1A.webp", "./src/assets/STICKER-SHIRT1B.webp", "./src/assets/STICKER-SHIRT1C.webp"]
+    },
+    {   "id": 29,
+        "name" : "stickers cooler",
+        "price": 25,        
+        "tagline": "Warning: This sticker may cause jealousy from other stickers." ,
+        "size": ["S", "M" , "2XL"],
+        "pictures": ["./src/assets/STICKER1.webp", "./src/assets/STICKER2.webp", "./src/assets/STICKER3.webp"]
+    },
+    {   "id": 16,
+        "name" : "Figma special",
+        "price": 25,        
+        "tagline": "Warning: This sticker may cause jealousy from other stickers." ,
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product16A.webp", "./src/assets/product16B.webp", "./src/assets/product16C.webp"]
+    },
+    {   "id": 15,
+        "name" : "Totely Bag",
+        "price": 25,        
+        "tagline": "Step up your style game – because basic is boring." ,
+        "size": ["S", "M" , "XL", "2XL"],
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product15A.webp", "./src/assets/product15B.webp", "./src/assets/product15C.webp"]
+    },
+    {   "id": 14,
+        "name" : "FigCalm cap",
+        "price": 25,        
+        "tagline": "Hats off to you (but only if you take it off)." ,
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product14A.webp", "./src/assets/product14B.webp"]
+    },
+    {   "id": 13,
+        "name" : "Offwhitety",
+        "price": 40,        
+        "tagline": "Stay hydrated – because being parched isn’t a good look." ,
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product13A.webp", "./src/assets/product13B.webp", "./src/assets/product13C.webp","./src/assets/product13D.webp"]
+    },
+    {   "id": 9,
+        "name" : "Gray cray",
+        "price": 40,        
+        "tagline": "Clothes so comfy, you’ll forget you're even dressed.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product9A.webp", "./src/assets/product9B.webp", "./src/assets/product9C.webp","./src/assets/product9D.webp", "./src/assets/product9E.webp", "./src/assets/product9F.webp"]
+    },
+    {   "id": 8,
+        "name" : "Socks != suck",
+        "price": 40,        
+        "tagline": "Perfect for selfies, and accidental encounters with exes.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product8A.webp", "./src/assets/product8B.webp", "./src/assets/product8C.webp","./src/assets/product8D.webp", "./src/assets/product8E.webp"]
+    },
+   {   "id": 7,
+        "name" : "Black fresh",
+        "price": 40,        
+        "tagline": "Who needs a personality when your outfit’s this good?",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product7A.webp", "./src/assets/product7B.webp", "./src/assets/product7C.webp","./src/assets/product7D.webp", "./src/assets/product7E.webp"]
+    },
+    {   "id": 6,
+        "name" : "Blue capich",
+        "price": 25,        
+        "tagline": "For the days when ‘wow’ is an understatement.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product6A.webp", "./src/assets/product6B.webp", "./src/assets/product6C.webp"]
+    },
+    {   "id": 5,
+        "name" : "Black Baggie",
+        "price": 40,        
+        "tagline": "Why blend in when you can stand out fabulously?",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product5A.webp", "./src/assets/product5B.webp", "./src/assets/product5C.webp","./src/assets/product5D.webp", "./src/assets/product5E.webp"]
+    },
+    {   "id": 4,
+        "name" : "Stay Hydrated!",
+        "price": 40,        
+        "tagline": "Because life is too short for bad outfits.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product4A.webp", "./src/assets/product4B.webp", "./src/assets/product4C.webp"]
+    },
+    {   "id": 3,
+        "name" : "Sweet and Orange",
+        "price": 40,        
+        "tagline": "This outfit will help you fake that 'I got my life together' look.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product3A.webp", "./src/assets/product3B.webp", "./src/assets/product3C.webp","./src/assets/product3D.webp", "./src/assets/product3E.webp", "./src/assets/product3F.webp"]
+    },
+    {   "id": 2,
+        "name" : "Eye Glueing Blue ",
+        "price": 40,        
+        "tagline": "Warning: Wearing this might lead to spontaneous dance moves.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product2A.webp", "./src/assets/product2B.webp", "./src/assets/product2C.webp","./src/assets/product2D.webp", "./src/assets/product2E.webp"]
+    },
+    {   "id": 1,
+        "name" : "Burnt Brownie",
+        "price": 40,        
+        "tagline": "Guaranteed to look amazing, even if you’re not trying.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/product1A.webp", "./src/assets/product1B.webp", "./src/assets/product1C.webp","./src/assets/product1D.webp", "./src/assets/product1E.webp"]
+    },
+    {   "id": 41,
+        "name" : "Magazini",
+        "price": 40,        
+        "tagline": "Because flipping through memes isn’t real reading.",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/maga1.webp", "./src/assets/maga2.webp", "./src/assets/maga3.webp","./src/assets/maga4.webp", "./src/assets/maga5.webp", "./src/assets/maga6.webp"]
+    },
+    {   "id": 25,
+        "name" : "$25 cards",
+        "price": 25,        
+        "tagline": "This can be a good Pleasant suprise",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/CARD25.webp"]
+    },
+    {   "id": 50,
+        "name" : "$50 cards",
+        "price": 25,        
+        "tagline": "This can be a good Pleasant suprise",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/CARD50A.webp"]
+    },
+    {   "id": 30,
+        "name" : "$30 cards",
+        "price": 30,        
+        "tagline": "This can be a good Pleasant suprise",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/CARD30A.webp"]
+    },
+    {   "id": 150,
+        "name" : "$150 cards",
+        "price": 150,        
+        "tagline": "This can be a good Pleasant suprise",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/CARD150.webp"]
+    },
+    {   "id": 100,
+        "name" : "$100 cards",
+        "price": 100,        
+        "tagline": "This can be a good Pleasant suprise",
+        "size": ["S", "M" , "XL", "2XL"],
+        "pictures": ["./src/assets/CARD100A.webp", "./src/assets/CARD100B.webp"]
+    }
+]
+
+
+

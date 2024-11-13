@@ -1,0 +1,129 @@
+PAGES
+
+1 > Landing Page -
+    -Nav                
+    -Hero
+    -figma(info)
+    -Product grid
+2 > About Page
+3> Bag-inventory
+4> check out page
+
+COMPONENTS
+1> Nav
+2> hero
+3> figma(info)
+4>Products(grid)
+5> footer
+5> spiner
+
+STATES
+1> fetch Product
+2> Bag: {
+    selceted-products: [
+    product1:{
+        price: number
+        text: string
+        qty: number
+    },
+    product1:{
+        price: number
+        text: string
+        qty: number
+    }
+    ]
+    increaseProductQty();
+    decreaseProductQty;
+    addNewSelectedProducts();
+    deleteSelectedProduct();
+    subtotal: a function that returns the total price of products
+
+    draggedProduct();
+    }
+
+
+FUNCTIONALITIES
+---User should be able to drag and drop product into bag from product grid
+
+
+
+
+ figma's collection of layers and components for you and your firends
+
+
+
+ Learnt
+ Css- tailwind
+    
+ zusatnd-persist, how store, and update state
+ react- structure, more about react under the hood
+
+functionality, drag and drop
+swiper library
+
+
+
+//OLD CODES
+
+
+                        {/* <div className="lg:hidden">
+                            <Swiper
+                                // install Swiper modules
+                                modules={[Navigation, Pagination, Scrollbar, A11y]}
+                                spaceBetween={50}
+                                slidesPerView={1}
+                                navigation
+                                pagination
+                                // onSwiper={(swiper) => console.log(swiper)}
+                                // onSlideChange={() => console.log('slide change')}
+                                className='h-[50vh]'>
+                                    {product.pictures.map((p)=> {
+                                        
+                                        console.log(p)
+                                        
+                                        return<SwiperSlide 
+                                        key={p.id}
+                                        className="rounded-[30px] overflow-hidden border" >
+                                            <div>
+                                                <img src={p} alt="ddd" />
+                                            </div>
+                                        </SwiperSlide>
+                                    })}
+                            </Swiper>
+                        
+                        </div> */}
+
+
+
+                               <Slider {...settings}>
+                               {product.pictures.map((p, i)=>(
+                                <div key={i} className=" p-4">
+                                    <div className="rounded-[30px] overflow-hidden border h-[50vh]">
+                                        <div>
+                                            <img src={p} alt="ddd" />
+                                        </div>
+                                    </div>
+                                </div>
+                               ))}
+                            </Slider>
+
+
+
+                                const settings = {
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1
+    }
+
+      <div className="hidden lg:block">
+                <NewSlider products={products} slidesNo={4} />
+                </div>
+                <div className="hidden md:block lg:hidden ">
+                <NewSlider products={products} slidesNo={3} />
+                </div>
+                <div className="md:hidden ">
+                <NewSlider products={products} slidesNo={1} />
+                </div>
+            </div>
