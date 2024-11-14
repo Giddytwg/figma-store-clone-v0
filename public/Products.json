@@ -59,7 +59,7 @@
         "price": 25,        
         "tagline": "Hats off to you (but only if you take it off)." ,
         "size": ["S", "M" , "XL", "2XL"],
-        "pictures": ["/assets/product14A.web", "/assets/product14B.webp"]
+        "pictures": ["/assets/product14A.webp", "/assets/product14B.webp"]
     },
     {   "id": 13,
         "name" : "Offwhitety",
@@ -73,7 +73,7 @@
         "price": 40,        
         "tagline": "Clothes so comfy, you’ll forget you're even dressed.",
         "size": ["S", "M" , "XL", "2XL"],
-        "pictures": ["/assets/product9A.webp", "/assets/product9B.webp", "/assets/product9C.webp","/assets/product9D.webp", "/assets/product9E.webp", "./src/assets/product9F.webp"]
+        "pictures": ["/assets/product9A.webp", "/assets/product9B.webp", "/assets/product9C.webp","/assets/product9D.webp", "/assets/product9E.webp", "/assets/product9F.webp"]
     },
     {   "id": 8,
         "name" : "Socks != suck",
@@ -115,7 +115,7 @@
         "price": 40,        
         "tagline": "This outfit will help you fake that 'I got my life together' look.",
         "size": ["S", "M" , "XL", "2XL"],
-        "pictures": ["/assets/product3A.webp", "/assets/product3B.webp", "/assets/product3C.webp","/assets/product3D.webp", "/assets/product3E.webp", "./src/assets/product3F.webp"]
+        "pictures": ["/assets/product3A.webp", "/assets/product3B.webp", "/assets/product3C.webp","/assets/product3D.webp", "/assets/product3E.webp", "/assets/product3F.webp"]
     },
     {   "id": 2,
         "name" : "Eye Glueing Blue ",
