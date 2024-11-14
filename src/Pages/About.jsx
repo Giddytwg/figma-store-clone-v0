@@ -1,7 +1,6 @@
-import about_pic from '../assets/About pic.jpg'
+import about_pic from '/assets/About pic.jpg'
 import { useMyStore } from '../Store';
 
-import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 

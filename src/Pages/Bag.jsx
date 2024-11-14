@@ -1,6 +1,6 @@
 import { useMyStore } from "../Store";
 
-import delete_icon from '../assets/icons/cross-round-svgrepo-com.svg'
+import delete_icon from '/assets/icons/cross-round-svgrepo-com.svg'
 
 
 

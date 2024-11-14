@@ -5,14 +5,14 @@ import Spinner from "./Spinner";
 
 
 // Icons
-import asterisk_icon from '../assets/icons/word-symbol-burst.static.svg'
-import hourglass_icon from '../assets/icons/word-symbol-hourglass.static.svg';
-import dots_icon from '../assets/icons/word-symbol-dots.static.svg';
-import zag_icon from '../assets/icons/word-symbol-zag.static.svg';
-import sun_icon from '../assets/icons/word-symbol-sun.static.svg'
-import comet_icon from '../assets/icons/word-symbol-comet.static.svg'
-import snake_icon from '../assets/icons/word-symbol-snake.static.svg'
-import tri_icon from '../assets/icons/word-symbol-tri.static.svg'
+import asterisk_icon from '/assets/icons/word-symbol-burst.static.svg'
+import hourglass_icon from '/assets/icons/word-symbol-hourglass.static.svg';
+import dots_icon from '/assets/icons/word-symbol-dots.static.svg';
+import zag_icon from '/assets/icons/word-symbol-zag.static.svg';
+import sun_icon from '/assets/icons/word-symbol-sun.static.svg'
+import comet_icon from '/assets/icons/word-symbol-comet.static.svg'
+import snake_icon from '/assets/icons/word-symbol-snake.static.svg'
+import tri_icon from '/assets/icons/word-symbol-tri.static.svg'
 
 
 

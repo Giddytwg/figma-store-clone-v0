@@ -1,9 +1,9 @@
 // Import Icons and Logo
-import logo from '../assets/icons/logo-full.static.svg';
-import search_icon from '../assets/icons/search-svgrepo-com.svg';
-import user_icon from '../assets/icons/person-male-svgrepo-com.svg';
-import menu_icon from '../assets/icons/hamburger-round-svgrepo-com.svg'
-import close_icon from '../assets/icons/circle-close-svgrepo-com.svg'
+import logo from '/assets/icons/logo-full.static.svg';
+import search_icon from '/assets/icons/search-svgrepo-com.svg';
+import user_icon from '/assets/icons/person-male-svgrepo-com.svg';
+import menu_icon from '/assets/icons/hamburger-round-svgrepo-com.svg'
+import close_icon from '/assets/icons/circle-close-svgrepo-com.svg'
 
 
 import { NavLink, Link } from 'react-router-dom';
