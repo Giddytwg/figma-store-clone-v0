@@ -1,5 +1,4 @@
 import about_pic from '../assets/About pic.jpg'
-import NewSlider from '../Components/NewSlider';
 import { useMyStore } from '../Store';
 
 import Slider from 'react-slick';
@@ -12,14 +11,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 
 const About = () => {
-    var settings = {
-        dots: true,
-        infinite: true,
-        speed: 500,
-        slidesToShow: 2,
-        slidesToScroll: 1,
-        arrows: true
-      };
+    
     const products = useMyStore(store => store.inventory)
     console.log(products)
     return ( 
@@ -36,16 +28,6 @@ const About = () => {
             </div>
             <div>
             </div>
-           <div className='m-auto w-[80%]'>
-            {/* <NewSlider products={products} slidesNo={3}/> */}
-            <Slider {...settings}>
-                  {products.map((p, i)=>(
-                    <div key={i} className='h-30 w-30'>
-                        <img src={p.pictures[1]} alt="" className='w-30 h-30' />
-                    </div>
-                  ))}
-            </Slider>
-           </div>
         </div>
      );
 }

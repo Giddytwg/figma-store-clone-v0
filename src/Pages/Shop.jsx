@@ -7,7 +7,7 @@ import ProductsGrid from "../Components/ProductGrid";
 const Shop = () => {
     const { initInventory, isLoading} = useMyStore()
     useEffect(()=>{
-        initInventory('../../Products.json');
+        initInventory('/Products.json');
     }, [initInventory])
     return ( 
         <div className="shop">
